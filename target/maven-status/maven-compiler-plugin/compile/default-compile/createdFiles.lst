@@ -1,0 +1,4 @@
+com\nagarro\calculatormvc\CalculatorMvcProjectApplication.class
+com\nagarro\calculatormvc\model\ResultModel.class
+com\nagarro\calculatormvc\controller\HomeController.class
+com\nagarro\calculatormvc\service\CalculatorService.class
